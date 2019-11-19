@@ -1,0 +1,15 @@
+.container {
+  width: 1170px;
+  margin: 0 auto;
+  }
+header {
+  background-color: #1C1C1C;
+  width: 100%
+  }
+.header-small a {
+  float: left;
+  color: white;
+  padding: 10px 20px;
+  border: 1px solid white;
+  display: inline-block;
+  }
