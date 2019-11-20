@@ -2,6 +2,11 @@ a {
   text-decoration: none;
 }
 
+body {
+  font-family: Cooper Black','fantasy','MS PGothic'
+}
+
+
 header {
   background-color: #1C1C1C;
   height: 66px;
