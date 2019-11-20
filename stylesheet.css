@@ -14,6 +14,7 @@ header {
   top: 0;
   z-index: 1;
   max-width: 1100px;
+  width: 100%;
 }
 .container {
   width: 1100px;
@@ -27,6 +28,7 @@ header h2 {
 .gnav {
   background-color: #96632E;
   text-align: center;
+  margin-right: 10px;
 }
 .gnav a {
   color: #FCFAF2;
