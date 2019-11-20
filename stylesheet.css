@@ -25,7 +25,8 @@ header h2 {
   color: #1C1C1C;
   float: left;
   font-weight: normal;
-  margin-left: 10px;
+  margin-left: 25px;
+  line-height: 66px;
 }
 .gnav {
   background-color: #96632E;
