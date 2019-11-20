@@ -63,4 +63,7 @@ header h2 {
   padding-right: 100px;
   font-weight: normal;
   letter-spacing: 3px;
+  writing-mode: vertical-rl;
+  position: absolute;
+  right: 50px;
 }
