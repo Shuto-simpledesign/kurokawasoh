@@ -4,9 +4,10 @@ header {
   position: fixed;
   top: 0;
   z-index: 1;
+  width: 100%;
 }
 .container {
-  width: 100%;
+  width: 1300px;
   margin: 0 auto;
 }
 header h2 {
@@ -23,7 +24,7 @@ header h2 {
   display: inline-block;
   opacity: 0.8;
   float: right;
-  padding: 33px 40px;
+  padding: 33px 20px;
 }
 .gnav a:hover {
   opacity: 1;
