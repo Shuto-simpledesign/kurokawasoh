@@ -1,6 +1,5 @@
 header {
   background-color: #1C1C1C;
-  text-align: center;
   height: 65px;
   position: fixed;
   top: 0;
@@ -9,20 +8,21 @@ header {
 header h2 {
   font-size: 32px;
   color: #FCFAF2;
-  float: left;
   padding: 35px 40px;
+  margin-right: 60px;
 }
 .header-small a {
-  float: right;
+  float: left;
   color: #FCFAF2;
   background-color: #1C1C1C;
   border: 1px solid #96632E;
   display: inline-block;
   line-height: 65px;
   padding: 0 40px;
+  opacity: 0.8
 }
 .header-small a:hover {
-  opacity: 0.7;
+  opacity: 1;
 }
 .top-wrapper {
   background-image: url(https://www.kurokawaonsen.or.jp/asset/images/event/yuakari/img-header.jpg);
