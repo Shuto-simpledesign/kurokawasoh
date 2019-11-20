@@ -68,20 +68,10 @@ header h2 {
 }
  .category {
    float: left;
-   width: 30%;
    display: inline-block;
 }
-.food-img {
-  background-image: url(http://www.kurokawaso.com/ryori/ryori.jpg);
-}
-.room-img {
-  background-image: url(http://www.kurokawaso.com/tatazuma/heya2.jpg);
-}
-.bath-img {
-  background-image: url(http://www.kurokawaso.com/furo/img/slide03.jpg);
-}
+
 .category p {
-  font-family: meiryo;
   font-size: 13px;
   margin-top: 10px;
 }
