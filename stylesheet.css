@@ -16,14 +16,15 @@ header h2 {
   padding: 35px 40px;
   margin-right: 60px;
 }
-.header-small a {
-  float: right;
-  color: #FCFAF2;
+.header-small {
   background-color: #1C1C1C;
+  opacity: 0.8;
+  float: right;
+}
+.header-small a {
+  color: #FCFAF2;
   border: 1px solid #96632E;
   display: inline-block;
-  line-height: 65px;
-  opacity: 0.8;
 }
 .header-small a:hover {
   opacity: 1;
@@ -33,7 +34,6 @@ header h2 {
   background-size: cover;
   background-color: #96632E;
   padding: 180px 0 100px;
-  text-align: center;
   width: 100%;
 }
 .container {
@@ -43,4 +43,5 @@ header h2 {
 .top-message {
   color: #FCFAF2;
   opacity: 0.8;
+  text-align: center;
 }
