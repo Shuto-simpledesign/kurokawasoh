@@ -13,12 +13,11 @@ header h2 {
   font-size: 32px;
   color: #FCFAF2;
   float: left;
-  left: 20px;
 }
-.header-small {
+.gnav {
   background-color: #1C1C1C;
 }
-.header-small a {
+.gnav a {
   color: #FCFAF2;
   border: 1px solid #96632E;
   display: inline-block;
@@ -26,47 +25,7 @@ header h2 {
   float: right;
   padding: 33px 40px;
 }
-.header-small a:hover {
+.gnav a:hover {
   opacity: 1;
 }
-.top-wrapper {
-  background-image: url(https://www.kurokawaonsen.or.jp/asset/images/event/yuakari/img-header.jpg);
-  background-size: cover;
-  height: 580px;
-}
-.container {
-  width: 1200px;
-  margin: 0 auto;
-}
-.top-message {
-  color: #FCFAF2;
-  opacity: 0.8;
-  text-align: center;
-}
-.top-message h1 {
-  padding: 100px 0 180px 0;
-}
-.container {
-  margin: 0 auto;
-  width: 1200px;
-}
-.menu-wrapper {
-  height: 300px;
-  text-align: center;
-  background-color: #FCFAF2; 
-}
-.categorys {
-  padding-top: 50px;
-  padding-bottom: 50px;
-}
- .category {
-   float: left;
-   display: inline-block;
-}
-
-.category p {
-  font-size: 13px;
-  margin-top: 10px;
-}
-
 
