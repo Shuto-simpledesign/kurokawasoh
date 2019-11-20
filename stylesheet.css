@@ -10,10 +10,15 @@ header {
   top: 0;
   z-index: 1;
 }
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
 header h2 {
   font-size: 32px;
   color: #FCFAF2;
   float: left;
+  left: 20px;
 }
 .header-small a {
   color: #FCFAF2;
