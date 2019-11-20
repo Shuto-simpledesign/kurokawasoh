@@ -45,3 +45,37 @@ header h2 {
 .top-message h1 {
   padding: 180px 0 180px 0;
 }
+.container {
+  margin: 0 auto;
+  width: 1200px;
+}
+.menu-wrapper {
+  height: 300px;
+  text-align: center;
+  background-color: #FCFAF2; 
+}
+.category {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+ .category {
+   float: left;
+   width: 30%;
+   display: inline-block;
+}
+.food-img {
+  background-image: url(http://www.kurokawaso.com/ryori/ryori.jpg);
+}
+.room-img {
+  background-image: url(http://www.kurokawaso.com/tatazuma/heya2.jpg);
+}
+.bath-img {
+  background-image: url(http://www.kurokawaso.com/furo/img/slide03.jpg);
+}
+.category p {
+  font-family: meiryo;
+  font-size: 13px;
+  margin-top: 10px;
+}
+
+
