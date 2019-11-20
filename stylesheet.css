@@ -15,15 +15,13 @@ header h2 {
   color: #FCFAF2;
   float: left;
 }
-.header-small {
-  background-color: #1C1C1C;
-}
 .header-small a {
   color: #FCFAF2;
   border: 1px solid #96632E;
   display: inline-block;
   opacity: 0.8;
   float: right;
+  padding: 65px 50px;
 }
 .header-small a:hover {
   opacity: 1;
