@@ -28,7 +28,8 @@ header h2 {
   display: inline-block;
   opacity: 0.8;
   float: right;
-  padding: 33px 20px;
+  line-height: 66px;
+  padding: 0 20px;
 }
 .gnav a:hover {
   opacity: 1;
