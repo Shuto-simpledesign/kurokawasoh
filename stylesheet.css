@@ -7,6 +7,7 @@ header h2 {
   font-size: 32px;
   color: #FCFAF2;
   float: left;
+  padding: 35px 40px;
 }
 .header-small a {
   float: right;
@@ -14,6 +15,11 @@ header h2 {
   background-color: #1C1C1C;
   border: 1px solid #96632E;
   display: inline-block;
+  line-height: 65px;
+  padding: 0 40px;
+}
+.header-small a:hover {
+  opacity: 0.7;
 }
 .top-wrapper {
   background-image: url(https://www.kurokawaonsen.or.jp/asset/images/event/yuakari/img-header.jpg);
