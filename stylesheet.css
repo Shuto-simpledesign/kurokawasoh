@@ -3,7 +3,7 @@ body {
 }
 
 header {
-  width: 100%;
+  width: 1200px;
   background-color: #1C1C1C;
   height: 65px;
   position: fixed;
@@ -19,7 +19,7 @@ header h2 {
 .header-small {
   background-color: #1C1C1C;
   opacity: 0.8;
-  float: right;
+  float: left;
 }
 .header-small a {
   color: #FCFAF2;
@@ -35,7 +35,7 @@ header h2 {
   height: 580px;
 }
 .container {
-  width: 100%;
+  width: 1200px;
   margin: 0 auto;
 }
 .top-message {
