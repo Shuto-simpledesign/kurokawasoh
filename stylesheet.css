@@ -36,8 +36,10 @@ header h2 {
   margin: 0 auto;
 }
 .top-wrapper h2 {
-  opacity: 0.8
+  opacity: 0.8;
+  color: #FCFAF2;
 }
 .top-wrapper p {
   opacity: 0.8;
+  color: #FCFAF2;
 }
