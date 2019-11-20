@@ -30,9 +30,10 @@ header h2 {
   background-color: #96632E;
   padding: 180px 0 100px;
   text-align: center;
+  width: 100%;
 }
 .container {
-  width: 100%;
+  width: 1170px;
   margin: 0 auto;
 }
 .top-message {
