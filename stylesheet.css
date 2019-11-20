@@ -32,7 +32,6 @@ header h2 {
 .top-wrapper {
   background-image: url(https://www.kurokawaonsen.or.jp/asset/images/event/yuakari/img-header.jpg);
   background-size: cover;
-  width: 100%;
   heifht: 580px;
 }
 .container {
