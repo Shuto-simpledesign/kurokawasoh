@@ -29,11 +29,13 @@ header h2 {
   background-size: cover;
   background-color: #96632E;
   height: 580px;
-  text-align: center;
 }
 .container {
   width: 1170px;
   margin: 0 auto;
+}
+.top-message {
+  text-align: center;
 }
 .top-wrapper h2 {
   opacity: 0.8;
