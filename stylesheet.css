@@ -32,6 +32,7 @@ header h2 {
   background-color: #96632E;
   text-align: center;
   margin-right: 30px;
+  /*width: 1100px;*/
 }
 .gnav a {
   color: #FCFAF2;
