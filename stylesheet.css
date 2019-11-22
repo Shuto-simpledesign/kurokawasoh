@@ -10,8 +10,6 @@ body {
 }
 
 header {
-  margin: 0 auto;
-  width: 1100px;
   height: 60px;
   background-color: #96632E;
   position: fixed; 
@@ -19,6 +17,7 @@ header {
   z-index: 1;
 }
 .logo {
+  width: 130px;
   float: left;
 }
   
