@@ -11,10 +11,13 @@ body {
 
 header {
   height: 60px;
+  width: 100%;
+  color: #FCFAF2;
   background-color: #96632E;
   position: fixed; 
   top: 0;
   z-index: 1;
+  margin: 0 auto;
 }
 .logo {
   width: 130px;
@@ -24,23 +27,21 @@ header {
 .gnav a {
   display: inline-block;
   padding: 60px 40px;
-  color: #1C1C1C;
+  color: #FCFAF2;
   font-weight: normal;
-  float: right;
   font-size: 20px;
+}
+.gnav {
+  float: right;
 }
 .top-wrapper {
   background-image: url(https://www.kurokawaonsen.or.jp/asset/images/event/yuakari/img-header.jpg);
   background-size: cover;
-  height: 700px;
-  width: 1100px;
+  padding: 200px 0 ;
   position: relative;
 }
 .top-wrapper h2 {
-  color: #1C1C1C;
+  color: #FCFAF2;
   font-weight: normal;
   font-size; 40px;
-  position: absolute;
-  top: 300px;
-  right: 200px;
 }
