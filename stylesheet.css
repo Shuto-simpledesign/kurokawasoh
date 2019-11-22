@@ -7,7 +7,6 @@ body {
 }
 
 header {
-  background-color: #1C1C1C;
   height: 66px;
   position: fixed;
   top: 0;
@@ -25,7 +24,6 @@ header img {
 }
 
 .gnav {
-  text-align: center;
   margin-right: 30px;
   float: right;
 }
@@ -42,8 +40,7 @@ header img {
 
 .top-wrapper {
   background-image: url(https://www.kurokawaonsen.or.jp/asset/images/event/yuakari/img-header.jpg);
-  background-size: cover;
-  height: 600px;
+  background-size: 600px 1100px;
   max-width: 1100px;
   text-align: center;
 }
