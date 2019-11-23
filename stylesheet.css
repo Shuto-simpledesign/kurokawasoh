@@ -51,11 +51,16 @@ header img {
   top: 100px;
   right: 200px;
 }
+.image-wrapper {
+  background-color: #96632E;
+  width: 1400px; 
+}
 .images img {
   float: left;
   width: 30%;
 }
 .concept {
+  width: 1400px;
   background-color: #96632E;
   color: #FCFAF2;
   text-align: center;
