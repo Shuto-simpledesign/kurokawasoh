@@ -23,10 +23,13 @@ header img {
   padding: 20px 20px;
   float: left;
 }
+.gnav {
+  margin-right: 40px;
+}
 .gnav a {
   display: inline-block;
   line-height: 60px;
-  padding: 0 20px;
+  padding: 20 20px;
   color: #FCFAF2;
   font-weight: normal;
   font-size: 20px;
