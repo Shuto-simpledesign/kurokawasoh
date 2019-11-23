@@ -64,6 +64,7 @@ header img {
 .images img {
   float: left;
   width: 30%;
+  height: 60px;
 }
 .concept {
   width: 1400px;
