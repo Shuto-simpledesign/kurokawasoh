@@ -29,7 +29,7 @@ header img {
 .gnav a {
   display: inline-block;
   line-height: 60px;
-  padding: 20 20px;
+  padding: 20px 20px;
   color: #FCFAF2;
   font-weight: normal;
   font-size: 20px;
@@ -37,6 +37,7 @@ header img {
   float: right;
 }
 .grav a:hover {
+  color: #FCFAF2;
   opacity: 1;
 }
 .top-wrapper {
@@ -74,10 +75,12 @@ header img {
   padding: 50px 0;
 }
 .concept h2 {
-  font-size: 40px;
-  font-weight: bold;
+  font-size: 55px;
+  font-weight: normal;
   letter-spacing: 5px;
 }
 .concept p {
+  font-size: 20px;
   letter-spacing: 3px;
+  padding: 30px 30px;
 }
