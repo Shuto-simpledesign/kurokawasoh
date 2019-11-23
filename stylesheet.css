@@ -60,3 +60,17 @@ header img {
 .images img {
   float: left;
 }
+.concept {
+  background-color: #96632E;
+  color: #FCFAF2;
+  text-align: center;
+  font-weight: normal;
+}
+.concept h2 {
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: 5px;
+}
+.concept p {
+  letter-spacing: 3px;
+}
