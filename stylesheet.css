@@ -35,7 +35,7 @@ header img {
   font-size: 20px;
   float: right;
 }
-.grav a:hover {
+.grav:hover {
   color: #FCFAF2;
   opacity: 0.8;
 }
