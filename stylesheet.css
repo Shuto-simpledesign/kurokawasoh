@@ -33,12 +33,11 @@ header img {
   color: #FCFAF2;
   font-weight: normal;
   font-size: 20px;
-  opacity: 0.8;
   float: right;
 }
 .grav a:hover {
-  color: red;
-  opacity: 0.9;
+  color: #FCFAF2;
+  opacity: 0.8;
 }
 .top-wrapper {
   background-image: url(https://www.kurokawaonsen.or.jp/asset/images/event/yuakari/img-header.jpg);
