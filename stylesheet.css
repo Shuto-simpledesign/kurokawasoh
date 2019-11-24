@@ -19,7 +19,7 @@ header {
   margin: 0 auto;
 }
 .container {
-  width: 1300px;
+  width: 1400px;
   margin: 0 auto;
 }
 header img {
@@ -51,7 +51,7 @@ header img {
   position: relative;
 }
 .container {
-  width: 1300px;
+  width: 1400px;
   margin: 0 auto;
 }
 .top-wrapper h2 {
@@ -60,7 +60,7 @@ header img {
   font-size: 40px;
   position: absolute;
   top: 100px;
-  right: 200px;
+  right: 150px;
   opacity: 0.9;
   writting-mode: vertical-rl;
 }
@@ -71,7 +71,7 @@ header img {
   height: 400px;
 }
 .container {
-  width: 1300px;
+  width: 1400px;
   margin: 0 auto;
 }
 .images img {
@@ -89,7 +89,7 @@ header img {
   padding: 50px 0;
 }
 .container {
-  width: 1300px;
+  width: 1400px;
   margin: 0 auto;
 }
 .concept h2 {
