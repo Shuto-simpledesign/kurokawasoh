@@ -11,7 +11,7 @@ body {
 
 header {
   height: 60px;
-  width: 1400px;
+  width: 1500px;
   position: fixed; 
   top: 0;
   z-index: 1;
@@ -41,7 +41,7 @@ header img {
 .top-wrapper {
   background-image: url(https://www.kurokawaonsen.or.jp/asset/images/event/yuakari/img-header.jpg);
   background-size: cover;
-  max-width: 1400px;
+  max-width: 1500px;
   height: 700px;
   position: relative;
 }
@@ -56,7 +56,7 @@ header img {
 }
 .image-wrapper {
   background-color: #080808;
-  width: 1400px; 
+  width: 1500px; 
   padding: 50px 0;
   height: 400px;
 }
@@ -67,7 +67,7 @@ header img {
   padding: 20px 20px;
 }
 .concept {
-  width: 1400px;
+  width: 1500px;
   background-color: #080808;
   color: #FCFAF2;
   text-align: center;
